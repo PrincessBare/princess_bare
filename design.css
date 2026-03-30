@@ -4,6 +4,7 @@ body{
     width: 100vw;
     padding: 0px;
     margin: 0px;
+    overflow-x: hidden;
     
 
 }
@@ -235,6 +236,7 @@ margin-bottom: 6px;
 .Projects{
     margin-bottom: 60px;
     overflow: hidden;
+    margin: 20px;
 
 }
 
